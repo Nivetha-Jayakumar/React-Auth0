@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding: 2rem;
+  }
+  
+  button {
+    margin: 2rem 0;
+    padding: 1rem 2rem;
+    width: 120px;
+    cursor: pointer;
+    background-color: #BADA55;
+    color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: pointer;
+    border: none;
+  }
+
+  button:hover {
+      transition-duration: 0.5s;
+      color: black;
+      background-color: white;
+      border: 1px solid #BADA55;
+
+  }
+  
+  img {
+    width: 120px;
+  }
